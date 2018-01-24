@@ -1,0 +1,12 @@
+C:\Users\dn965238\Coding Documents\CIDM 4390\Jan24.2018\SimpleDependency\bin\Debug\netcoreapp2.0\SimpleDependency.deps.json
+C:\Users\dn965238\Coding Documents\CIDM 4390\Jan24.2018\SimpleDependency\bin\Debug\netcoreapp2.0\SimpleDependency.runtimeconfig.json
+C:\Users\dn965238\Coding Documents\CIDM 4390\Jan24.2018\SimpleDependency\bin\Debug\netcoreapp2.0\SimpleDependency.runtimeconfig.dev.json
+C:\Users\dn965238\Coding Documents\CIDM 4390\Jan24.2018\SimpleDependency\bin\Debug\netcoreapp2.0\SimpleDependency.dll
+C:\Users\dn965238\Coding Documents\CIDM 4390\Jan24.2018\SimpleDependency\bin\Debug\netcoreapp2.0\SimpleDependency.pdb
+C:\Users\dn965238\Coding Documents\CIDM 4390\Jan24.2018\SimpleDependency\bin\Debug\netcoreapp2.0\MessagePrinter.dll
+C:\Users\dn965238\Coding Documents\CIDM 4390\Jan24.2018\SimpleDependency\bin\Debug\netcoreapp2.0\MessagePrinter.pdb
+C:\Users\dn965238\Coding Documents\CIDM 4390\Jan24.2018\SimpleDependency\obj\Debug\netcoreapp2.0\SimpleDependency.csproj.CoreCompileInputs.cache
+C:\Users\dn965238\Coding Documents\CIDM 4390\Jan24.2018\SimpleDependency\obj\Debug\netcoreapp2.0\SimpleDependency.AssemblyInfoInputs.cache
+C:\Users\dn965238\Coding Documents\CIDM 4390\Jan24.2018\SimpleDependency\obj\Debug\netcoreapp2.0\SimpleDependency.AssemblyInfo.cs
+C:\Users\dn965238\Coding Documents\CIDM 4390\Jan24.2018\SimpleDependency\obj\Debug\netcoreapp2.0\SimpleDependency.dll
+C:\Users\dn965238\Coding Documents\CIDM 4390\Jan24.2018\SimpleDependency\obj\Debug\netcoreapp2.0\SimpleDependency.pdb
